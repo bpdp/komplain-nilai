@@ -18,7 +18,7 @@ Repository ini digunakan untuk menampung berbagai komplain nilai. Berikut ini la
 Contoh struktur direktori dan file-file yang harus anda buat untuk dikirim sebagai PR:
 
 ~~~~
-- 123456
+- ti-123456
   |______ ti-1233456.capnp
   |______ ti-123456.py
 ~~~~
